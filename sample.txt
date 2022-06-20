@@ -1,2 +1,4 @@
 This is sample text
 This is where changes will be done
+Added a new line.
+Will merge now.
